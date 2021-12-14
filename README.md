@@ -2,6 +2,9 @@
 
 in this repo, there is 2 projects, the first project is the mpi_parallel_solution project, the second project is the sequential_solution project.
 to run the parallel_solution project, i download mpi to visual studio 2019.
+
+i run the projects using command prompt (cmd).
+
 i assumed that i take a radian value of x
 
 in parallel_solution project 
